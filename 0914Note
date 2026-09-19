@@ -1,0 +1,12 @@
+1. Basic Data Types 
+- Integer: int, long, long long, short (distinguish between signed and unsigned). 
+- Characters & Strings: Char characters, string strings (or char[] character arrays).
+- Real numbers: float, double.
+2. Basic Data Structures
+- Array: Collection of consecutive elements of the same data type. 
+- Linked List: Contains nodes connected to each other via addresses/pointers ending in NULL. 
+- Stack & Queue: Special data retrieval methods (for example: first in, last out, first in first out).
+3. Advanced Data Structures
+- Tree: Branching structure in the form of nodes and branches
+- Graph: Includes vertices and edges. Can be represented by an adjacent matrix or an adjacent list. 
+- Hash Table: A combination of array and linked list along with hash function to store data.
